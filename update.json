@@ -1,1 +1,6 @@
-﻿{"versionCode": 1, "versionName": "1.0", "apkUrl": "https://github.com/SUBHOJITPAUL797/InventoryManager-Updates/releases/download/v1.0.0/app-release-signed.apk", "changelog": "Initial mobile release"}
+﻿{
+    "versionCode": 3,
+    "versionName": "1.1.0",
+    "apkUrl": "https://github.com/SUBHOJITPAUL797/InventoryManager-Updates/releases/download/v1.1.0/app-release.apk",
+    "changelog": "- Added Customer Name and Payment Method to Sales\n- Fixed Realtime Stock Status Updates\n- Improved Checkout UI\n- Bug fixes and performance improvements"
+}
